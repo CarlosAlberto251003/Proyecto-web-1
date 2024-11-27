@@ -2,7 +2,7 @@
     <!-- Contenido de tu página -->
 
     <div class="container">
-        <h1 class="center-align">Bienvenido</h1>
+        <h1 class="center-align">Inicia Sesion</h1>
         <div class="row">
             <form class="col s12 m6 offset-m3" method="POST" action="logica/loguear.php">
                 <div class="row">

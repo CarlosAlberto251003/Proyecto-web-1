@@ -69,7 +69,7 @@
       <div class="row">
         <div class="col l6 s12">
           <h5 class="white-text">Hextec</h5>
-          <p class="grey-text text-lighten-4">Donde tu dinero se encuentra seguro.</p>
+          <p class="grey-text text-lighten-4">Para ayudar a las personas.</p>
 
 
         </div>
